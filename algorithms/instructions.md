@@ -8,7 +8,6 @@ sumOfMultiples([9, 3, 21, 30, 7,8,4,2]) to return 63
 sumOfMultiples([10, 20, 11, 17, 7])  to return 30
 
 # Challenge 2
-
 Implement a function sumOfTwoSmallestNums(arr) that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. 
 
 For example, when an array is passed like [19, 5, 42, 2, 77], the output should be 7.
